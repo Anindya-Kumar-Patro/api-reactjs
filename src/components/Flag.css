@@ -1,0 +1,16 @@
+.flag-container{
+    background-color: rgb(156, 156, 156);
+    display: flex;
+    flex-direction: column;
+    
+}
+.flag-image{
+    height: 300px;
+    width: 500px;
+}
+
+button{
+    height:50px;
+    font-size: 20px;
+    border-radius:10px;
+}
